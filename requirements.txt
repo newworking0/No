@@ -1,2 +1,5 @@
+pyrogram
+tgcrypto
 telethon
-pytgcalls
+pyTelegramBotAPI
+git+https://github.com/pytgcalls/pytgcalls.git
